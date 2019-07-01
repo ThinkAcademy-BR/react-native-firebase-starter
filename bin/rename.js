@@ -144,7 +144,7 @@ const run = async () => {
   projectName = projectName.replace(/ /g, '');
   companyName = companyName.replace(/ /g, '').toLowerCase();
 
-  const packageName = `com.${companyName}.${projectName.toLowerCase()}`;
+  const packageName = `net.${companyName}.${projectName.toLowerCase()}`;
   // Close the input
   rl.close();
 

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "648956041572",
+    "firebase_url": "https://br-pesquisas.firebaseio.com",
+    "project_id": "br-pesquisas",
+    "storage_bucket": "br-pesquisas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648956041572:android:b956fc397c21d397",
+        "android_client_info": {
+          "package_name": "net.thinkam.brpesquisas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648956041572-79qhl9sphvkl3s7j6c76b54ss6gt2t48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWMGGbSaA1J_9LHxBGSP_Yc-4lYtrVpgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "648956041572-79qhl9sphvkl3s7j6c76b54ss6gt2t48.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "648956041572-huhpkfbegd0obdaonaa7obts58l9h961.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "net.thinkam.brpesquisas"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

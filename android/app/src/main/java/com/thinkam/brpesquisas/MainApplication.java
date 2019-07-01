@@ -1,4 +1,4 @@
-package com.invertase.rnfirebasestarter;
+package net.thinkam.brpesquisas;
 
 import android.support.multidex.MultiDexApplication;
 
